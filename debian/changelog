@@ -1,3 +1,9 @@
+cgit (0.8.3-13-ge633ccf-2) asimov; urgency=low
+
+  * local: reorder commits/branches/tags on summary screen.
+
+ -- Mikhail Gusarov <dottedmag@dottedmag.net>  Sat, 14 Nov 2009 18:37:35 +0600
+
 cgit (0.8.3-13-ge633ccf-1) asimov; urgency=low
 
   * Initial revision (OI#428).
