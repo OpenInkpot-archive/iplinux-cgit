@@ -18,8 +18,7 @@ build: build-stamp
 build-stamp:
 	dh_testdir
 
-	git submodule init
-	git submodule update
+	$(MAKE) get-git
 	$(MAKE) $(CONFIGURE_ARGS)
 
 	touch $@
