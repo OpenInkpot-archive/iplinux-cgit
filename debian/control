@@ -1,0 +1,13 @@
+Source: cgit
+Section: host/tools
+Priority: optional
+Maintainer: Mikhail Gusarov <dottedmag@dottedmag.net>
+Build-Depends: debhelper (>= 7)
+Standards-Version: 3.8.3
+
+Package: cgit
+Architecture: any
+Depends: ${shlibs:Depends}
+Description: a web frontend for git
+ fast web interface for the git scm, using a builtin cache to decrease server
+ io-pressure.

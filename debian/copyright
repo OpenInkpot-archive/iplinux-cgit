@@ -1,0 +1,20 @@
+Format-Specification:
+    http://wiki.debian.org/Proposals/CopyrightFormat?action=recall&rev=196
+Upstream-Maintainer: Lars Hjemli <hjemli@gmail.com>
+Upstream-Source: http://hjemli.net/git/cgit/
+Upstream-Name: cgit
+
+Files: *
+Copyright: 2006-2008, Lars Hjemli
+License: GPL-2
+
+Files: debian/*
+Copyright: 2009, Mikhail Gusarov <dottedmag@dottedmag.net>
+License: GPL-2
+
+License: GPL-2
+    This program is free software; you can redistribute it and/or modify
+    it under the terms of the GNU General Public License as published by 
+    the Free Software Foundation; either version 2.
+    On Debian GNU/Linux systems, the complete text of the GNU General Public
+    License version 2 can be found in `/usr/share/common-licenses/GPL-2'

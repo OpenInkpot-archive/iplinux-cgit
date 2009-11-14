@@ -1,0 +1,2 @@
+version=3
+http://hjemli.net/git/cgit/refs/ /git/cgit/snapshot/cgit-(.+)\.tar\.gz
